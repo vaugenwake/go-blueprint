@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://go-blueprint.net/</loc>
+         <lastmod>2024-02-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://go-blueprint.net/advanced-flag/</loc>
+         <lastmod>2024-02-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://go-blueprint.net/creating-project/</loc>
+         <lastmod>2024-02-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://go-blueprint.net/db-drivers/</loc>
+         <lastmod>2024-02-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://go-blueprint.net/frameworks/</loc>
+         <lastmod>2024-02-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://go-blueprint.net/installation/</loc>
+         <lastmod>2024-02-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
